@@ -1,0 +1,7 @@
+INDEX VERSION 1.134+D:\Spring-Framework-a3\spring-boot-crud-operation\.metadata\.plugins\org.eclipse.jdt.core
+3247393189.index
+3858649449.index
+2691690552.index
+1157666971.index
+4045322628.index
+1865797976.index
